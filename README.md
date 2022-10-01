@@ -5,6 +5,8 @@ i have no idea what i'm doing. suggestions?
   
 I would just create two folders, one for static gif, one for animated gifs.  
 
+Should we consider future resolutions? Maybe the top level folder would be the resolution. ie. 128x32 - kconger
+
 I would suggest subfolders for each number/letter as well, I've found the SD library can take forever to list large directories. A large single directory takes minutes to list and breaks both FTP Server libraries I've tried.  Below illustrates my suggestion. - kconger
 
 ```
