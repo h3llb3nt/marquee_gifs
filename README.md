@@ -3,7 +3,9 @@ collection point for art for tty2rgbmatrix, web2rgbmatrix, etc
 
 i have no idea what i'm doing. suggestions?  
   
-I would just create two folders, one for static gif, one for animated gifs.  
+I would just create two folders, one for static gif, one for animated gifs.
+
+I think filename should match what MiSTer reports as the core. ie. Minimig.gif - kconger
 
 Should we consider future resolutions? Maybe the top level folder would be the resolution. ie. 128x32 - kconger
 
